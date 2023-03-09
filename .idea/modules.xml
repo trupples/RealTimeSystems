@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RealTimeSystems.iml" filepath="$PROJECT_DIR$/.idea/RealTimeSystems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1ex1/lab1ex1.iml" filepath="$PROJECT_DIR$/lab1ex1/lab1ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1ex2/lab1ex2.iml" filepath="$PROJECT_DIR$/lab1ex2/lab1ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2app2/lab2app2.iml" filepath="$PROJECT_DIR$/lab2app2/lab2app2.iml" />
+    </modules>
+  </component>
+</project>

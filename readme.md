@@ -12,5 +12,5 @@ TA: PhD. Dahlia Al-Janabi
 
 ## Laboratories
 
-* [[2023-03-09 lab 1|Lab 1]]
+* [[2023-03-09 lab 1,2|Lab 1]]
 
